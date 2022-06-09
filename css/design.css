@@ -1,0 +1,49 @@
+#d { background-color: #56a777;}
+#sn
+{
+    width: 75%;
+    margin:auto 15% ;
+    text-align: justify;
+    text-indent: 8%;
+}
+
+P.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    font-size: 430%;
+    font-weight: 600;
+}
+p.basinf
+{
+    width: 70%;
+    margin:auto 15% ;
+    font-size: 210%;
+    text-align:  left;
+    text-indent: 8%;
+}
+
+e
+{
+    font-style: italic;
+    color: #ff6a00;
+    text-decoration: underline;  
+    font-size: 210%;
+    text-indent: 8%;
+     
+}
+div{
+ 
+    margin:auto 15% ;
+    font-size: 210%;
+    padding-top: 2%;
+    padding-bottom: 3%;
+   font-weight: 600;
+}
+img
+{
+    float: right;
+    width: 30%;
+    border: 3px solid black;
+    margin: 20px 140px 0 12px;
+}
